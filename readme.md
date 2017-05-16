@@ -1,27 +1,33 @@
 ## What is this?
 
-Just you wait folks!
+Learning to build from Web Ninja Wes Bos and his awesome course a full stack restaurant application which users can search, geolocate, review and curate their favourite restaurants from around the world.
 
-## Sample Data
+I took this course in order to gain a back-end knowledge of the most modern web technologies including
 
-To load sample data, run the following command in your terminal:
+*User Accounts
+*REST API endpoints
+*Database Schemas
+*Document Relationships
+*Templating and Mixins
+*Restricting Operations
+*Middleware
+*Image Resizing
+*Password Reset Flow
+*Storing Geospatial Data
+*Routing
+*Flow Control
+*Error Handling
+*Advanced DB Queries
+*File Uploading
+*Sending Email
+*MVC Pattern
+*Geocoding Addresses
+*Pagination
+*Server Deployment
 
-```bash
-npm run sample
-```
-
-If you have previously loaded in this data, you can wipe your database 100% clean with:
-
-```bash
-npm run blowitallaway
-```
-
-That will populate 16 stores with 3 authors and 41 reviews. The logins for the authors are as follows:
-
-|Name|Email (login)|Password|
-|---|---|---|
-|Wes Bos|wes@example.com|wes|
-|Debbie Downer|debbie@example.com|debbie|
-|Beau|beau@example.com|beau|
+The application has three main models — Users, Stores and Reviews — all of which are relational. It is designed to hit upon many of today's application needs such as user authentication, database storage, Ajax REST API, file upload and image resizing.
 
 
+## Future of this Project
+
+As an entry front-end developer i am planning to edit the UI of the application using modern techniques
